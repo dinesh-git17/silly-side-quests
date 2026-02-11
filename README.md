@@ -24,7 +24,7 @@ python buddy.py --name Mochi --mood happy --duration 30
 
 A small ASCII cat named Mochi appears in your terminal. It blinks, wiggles, bounces around, and generally keeps you company for 30 seconds. That's it. That's the whole thing.
 
-```
+```txt
   /\_/\
  ( o.o )
   > ^ <
@@ -54,7 +54,7 @@ Requires Python 3.10+. No `pip install` necessary.
 
 ## Project Structure
 
-```
+```txt
 silly-side-quests/
 ├── buddy.py           # ASCII pocket pet for your terminal
 ├── .gitignore
